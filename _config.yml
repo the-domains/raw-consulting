@@ -1,6 +1,6 @@
 name: RAW Consulting
 favicon: null
-layout_spectrum: 0.9764563827775419
+layout_spectrum: 0.99206
 typography_spectrum: 0.16510056261904538
 title: Research At Work Consulting
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.7978466602507979
+  brandStrength: 0.8125
   lightness: 0.46180538926273584
   saturation: 0.32163680787198246
   rhythmicContrast: 0.9976688388269395
