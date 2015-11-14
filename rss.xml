@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Research At Work Consulting]]></title>
+        <description><![CDATA[Research At Work Consulting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 14 Nov 2015 09:38:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Data-Intensive Science and Campus IT]]></title>
+            <description><![CDATA[<article><h1>Data-Intensive Science and Campus IT</h1><p>Montana State University developed the Research Data Census to engage local research communities in dialogue about their data: size, sharing of resources, sharing behaviors, and interest in data-related services. The census confirmed the need for a tight coupling of IT infrastructure to data and curation services in order to make those resources useful to the research community.</p><img src="http://er.educause.edu/~/media/images/articles/2015/9/ero1596figure1.jpg?la=en"></article>]]></description>
+            <link>http://er.educause.edu/articles/2015/9/data-intensive-science-and-campus-it</link>
+            <guid isPermaLink="false">f8f78027-0135-40d5-811a-f42237315380</guid>
+            <pubDate>Sat, 14 Nov 2015 09:38:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
