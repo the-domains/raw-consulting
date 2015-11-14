@@ -4,14 +4,14 @@
         <description><![CDATA[Research At Work Consulting]]></description>
         <link>https://thegrid.ai/raw-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 09:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2015 09:27:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/raw-consulting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Our People]]></title>
-            <description><![CDATA[<article><h1>Our People</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cb4deeb-b9a3-4bba-89fd-2aec35b24fdc.jpg"></article>]]></description>
+            <description><![CDATA[<h1>Our People</h1>]]></description>
             <link>https://thegrid.ai/raw-consulting/about-raw/index.html</link>
             <guid isPermaLink="false">8cdb1665-1412-4975-8f15-0bc0551d9430</guid>
-            <pubDate>Sat, 14 Nov 2015 09:24:17 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2015 09:27:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
