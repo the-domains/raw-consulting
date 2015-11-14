@@ -1,24 +1,24 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'The Intel Science and Technology Center for Social Computing, at the end of a 3-year multi-institutional project, needed to bring together research and innovation to showcase to the world.'
-datePublished: '2015-11-14T19:44:54.712Z'
-dateModified: '2015-11-14T19:44:31.568Z'
+datePublished: '2015-11-14T19:46:51.036Z'
+dateModified: '2015-11-14T19:46:47.276Z'
 title: Showcasing the ISTC•Social
+sourcePath: _posts/2015-11-14-showcasing-the-istcsocial.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-14-showcasing-the-istcsocial.md
-published: true
 url: showcasing-the-istcsocial/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b62a1204-8e75-4dd9-9f8e-7836f1f2c78d.png)
