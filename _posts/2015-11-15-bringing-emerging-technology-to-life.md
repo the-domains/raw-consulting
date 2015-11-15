@@ -16,9 +16,9 @@ keywords:
   - allowing
   - translation
   - news
-description: 'Overlooking a recent technology article on BBC news (http://www.bbc.co.uk/news/technology-24332358), I read about how a Japanese research lab is developing a system to allow users (via augemnted reality) to be able to see the translation of writing in the environment. Naturally, its intended application is to allowing users to see the their foreign surroundings in a [...]'
-datePublished: '2015-11-15T02:10:53.358Z'
-dateModified: '2015-11-15T02:10:39.414Z'
+description: ''
+datePublished: '2015-11-15T20:33:11.071Z'
+dateModified: '2015-11-15T10:45:15.328Z'
 author:
   - name: Steve Slota
     url: 'http://evoke.ics.uci.edu/?author=7'
@@ -35,14 +35,14 @@ author:
 related: []
 app_links: []
 title: Bringing Emerging Technology to Life
+sourcePath: _posts/2015-11-15-bringing-emerging-technology-to-life.md
+published: true
 authors: []
 publisher:
   name: Uci
   domain: evoke.ics.uci.edu
   url: 'http://evoke.ics.uci.edu'
   favicon: 'http://evoke.ics.uci.edu/newsite/wp-content/uploads/2013/06/favicon-2.ico'
-sourcePath: _posts/2015-11-15-bringing-emerging-technology-to-life.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
