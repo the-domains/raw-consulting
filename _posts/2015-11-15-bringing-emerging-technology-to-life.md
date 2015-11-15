@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://evoke.ics.uci.edu/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - translation
   - news
 description: ''
-datePublished: '2015-11-15T20:33:11.071Z'
-dateModified: '2015-11-15T10:45:15.328Z'
+datePublished: '2015-11-15T23:28:10.563Z'
+dateModified: '2015-11-15T23:28:04.412Z'
 author:
   - name: Steve Slota
     url: 'http://evoke.ics.uci.edu/?author=7'
@@ -43,6 +42,7 @@ publisher:
   domain: evoke.ics.uci.edu
   url: 'http://evoke.ics.uci.edu'
   favicon: 'http://evoke.ics.uci.edu/newsite/wp-content/uploads/2013/06/favicon-2.ico'
+url: bringing-emerging-technology-to-life/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
