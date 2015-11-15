@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Intel Science and Technology Center for Social Computing, at the end of a 3-year multi-institutional project, needed to bring together research and innovation to showcase to the world.'
-datePublished: '2015-11-15T00:35:52.288Z'
-dateModified: '2015-11-15T00:35:47.347Z'
+datePublished: '2015-11-15T00:38:25.211Z'
+dateModified: '2015-11-15T00:38:21.217Z'
 title: Showcasing the ISTC•Social
 sourcePath: _posts/2015-11-14-showcasing-the-istcsocial.md
 published: true
