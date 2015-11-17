@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://istcsocial.gatech.edu/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - human
   - obsolescence
 description: 'Teams from Cornell, Georgia Tech, Indiana, NYU, UC-Irvine, and Intel Labs have tackled a broad array of topics where society and technology meet, such as Bitcoin and cryptocurrency, new paradigms for information and data privacy, mobile health and the quantified self, emerging styles of work and labor, critical design practices and theories, digital identity throughout and beyond the human life cycle, civic participation, the DIY and maker movements, technological obsolescence and repurposing, and the ways that algorithmic regimes scaffold human activity in increasingly opaque and subtle ways.'
-datePublished: '2015-11-15T01:48:13.627Z'
-dateModified: '2015-11-15T01:47:38.212Z'
+datePublished: '2015-11-17T21:39:39.050Z'
+dateModified: '2015-11-17T21:39:35.810Z'
 author: []
 related: []
 app_links: []
 title: Showcasing the ISTC•Social
+sourcePath: _posts/2015-11-15-showcasing-the-istcsocial.md
+published: true
 authors: []
 publisher:
   name: Gatech
   domain: istcsocial.gatech.edu
   url: 'http://istcsocial.gatech.edu'
   favicon: 'http://istcsocial.gatech.edu/wp-content/uploads/2015/02/favicon.png'
-sourcePath: _posts/2015-11-15-showcasing-the-istcsocial.md
-published: true
+url: showcasing-the-istcsocial/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
