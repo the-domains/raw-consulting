@@ -4,7 +4,7 @@
         <description><![CDATA[Research At Work Consulting]]></description>
         <link>https://thegrid.ai/raw-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 01:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 21:40:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/raw-consulting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About RAW]]></title>
@@ -14,11 +14,18 @@
             <pubDate>Sat, 14 Nov 2015 20:01:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bringing Emerging Technology to Life]]></title>
+            <description><![CDATA[<article><h1>Bringing Emerging Technology to Life</h1><p>Overlooking a recent technology article on BBC news (http://www.bbc.co.uk/news/technology-24332358), I read about how a Japanese research lab is developing a system to allow users (via augemnted reality) to be able to see the translation of writing in the environment. Naturally, its intended application is to allowing users to see the their foreign surroundings in a [...]</p><img src="http://evoke.ics.uci.edu/newsite/wp-content/uploads/CriticalQuantification-410x230.png"></article>]]></description>
+            <link>https://thegrid.ai/raw-consulting/bringing-emerging-technology-to-life/index.html</link>
+            <guid isPermaLink="false">1dff10c8-fc32-48ef-b6ce-b1564950fd91</guid>
+            <pubDate>Sun, 15 Nov 2015 23:28:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Showcasing the ISTC•Social]]></title>
-            <description><![CDATA[<article><h1>Showcasing the ISTC•Social</h1><p>The Intel Science and Technology Center for Social Computing, at the end of a 3-year multi-institutional project, needed to bring together research and innovation to showcase to the world.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42f794bf-5243-4e5f-8c20-37884438f048.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Showcasing the ISTC•Social</h1><p>Teams from Cornell, Georgia Tech, Indiana, NYU, UC-Irvine, and Intel Labs have tackled a broad array of topics where society and technology meet, such as Bitcoin and cryptocurrency, new paradigms for information and data privacy, mobile health and the quantified self, emerging styles of work and labor, critical design practices and theories, digital identity throughout and beyond the human life cycle, civic participation, the DIY and maker movements, technological obsolescence and repurposing, and the ways that algorithmic regimes scaffold human activity in increasingly opaque and subtle ways.</p><img src="http://istcsocial.gatech.edu/wp-content/uploads/2015/03/footerlogoprototype11.png"></article>]]></description>
             <link>https://thegrid.ai/raw-consulting/showcasing-the-istcsocial/index.html</link>
-            <guid isPermaLink="false">1386b7ee-d2fc-432c-9288-e320026b5985</guid>
-            <pubDate>Sun, 15 Nov 2015 01:39:55 GMT</pubDate>
+            <guid isPermaLink="false">db59100e-8b0f-4037-a926-59782af617ae</guid>
+            <pubDate>Tue, 17 Nov 2015 21:39:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Data-Intensive Science and Campus IT]]></title>
