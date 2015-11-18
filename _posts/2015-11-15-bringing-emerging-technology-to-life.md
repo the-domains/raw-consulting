@@ -16,8 +16,8 @@ keywords:
   - translation
   - news
 description: ''
-datePublished: '2015-11-15T23:28:10.563Z'
-dateModified: '2015-11-15T23:28:04.412Z'
+datePublished: '2015-11-18T00:26:19.896Z'
+dateModified: '2015-11-18T00:26:07.622Z'
 author:
   - name: Steve Slota
     url: 'http://evoke.ics.uci.edu/?author=7'
