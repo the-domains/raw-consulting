@@ -16,8 +16,8 @@ keywords:
   - translation
   - news
 description: "We designed and built the EVOKE Lab at UC-Irvine's School of Information and Computer Science to serve as a campus hub for students and faculty to imagine and realize next-generation interfaces and experiences with technology. Bringing together advanced tools for building - microprocessors, 3D printing and other fabrication, gestural and immersive computing technologies - with deep social science theory and design methodologies, we created a space visited and used by groups throughout the campus to collaborate (3D Printing Club, Dance Department, TEDxUCI, Informatics, Anthropology, and many others.) "
-datePublished: '2016-01-14T20:04:36.794Z'
-dateModified: '2016-01-14T20:04:32.145Z'
+datePublished: '2016-01-14T22:12:24.288Z'
+dateModified: '2016-01-14T22:12:19.279Z'
 author:
   - name: Steve Slota
     url: 'http://evoke.ics.uci.edu/?author=7'
@@ -47,6 +47,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f21632e0-78ac-41d2-b5da-198f1c6f8752.png)
+
 # Bringing Emerging Technology to Life
 
 We designed and built the EVOKE Lab at UC-Irvine's School of Information and Computer Science to serve as a campus hub for students and faculty to imagine and realize next-generation interfaces and experiences with technology. Bringing together advanced tools for building - microprocessors, 3D printing and other fabrication, gestural and immersive computing technologies - with deep social science theory and design methodologies, we created a space visited and used by groups throughout the campus to collaborate (3D Printing Club, Dance Department, TEDxUCI, Informatics, Anthropology, and many others.) 
